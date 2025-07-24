@@ -14,7 +14,7 @@ This project explores trends in the data analyst job market using a dataset of o
 - **Python**: Data wrangling and analysis (`pandas`, `numpy`)
 - **Visualization**: `matplotlib`, `seaborn`
 - **EDA**: Exploratory Data Analysis
-- **Jupyter Notebook**: Code development and analysis
+- **Visual Studio**: Code development and analysis
 - **Excel**: Initial data inspection
 
 ## Key Insights
